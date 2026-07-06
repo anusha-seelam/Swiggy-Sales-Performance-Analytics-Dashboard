@@ -1,38 +1,43 @@
 # 📊 Swiggy Sales Performance Analytics Dashboard
 
-An interactive **Power BI dashboard** designed to analyze Swiggy sales data and transform raw business data into meaningful insights. This project demonstrates how Power BI can be used to visualize key performance indicators (KPIs), monitor sales trends, and support data-driven decision-making.
+An interactive **Power BI dashboard** developed to analyze Swiggy sales data and transform raw business data into meaningful insights. This project demonstrates how Power BI can be used to visualize Key Performance Indicators (KPIs), identify sales trends, and support data-driven business decisions through interactive dashboards.
 
 ---
 
+## 📸 Dashboard Preview
 
+![Swiggy Sales Performance Analytics Dashboard](Swiggy_Dashboard.png)
+
+---
 
 ## 📖 Project Overview
 
-The **Swiggy Sales Performance Analytics Dashboard** provides a comprehensive analysis of sales performance through interactive visualizations and business metrics. It helps identify revenue trends, customer behavior, order performance, and cuisine-wise sales distribution, enabling users to make informed business decisions.
+The **Swiggy Sales Performance Analytics Dashboard** provides a comprehensive analysis of sales performance using interactive visualizations and business metrics. It enables users to monitor revenue, customer behavior, order status, and cuisine-wise performance while helping businesses make informed decisions through data analysis.
 
 ---
 
 ## 🚀 Dashboard Features
 
-- 💰 Total Revenue Analysis
-- 👤 Revenue per Customer
-- 🎯 Order Target Achievement
-- 📦 Order Status Distribution
-- 📈 Monthly Order Trends
-- 🍽️ Revenue by Cuisine Type
-- 👥 Customer Distribution by Category
-- 📅 Interactive Month Filter
+- 💰 Total Revenue KPI
+- 👤 Revenue per Customer KPI
+- 🎯 Order Target Achievement (Gauge)
+- 📦 Order Status Distribution (Donut Chart)
+- 📈 Monthly Order Trend Analysis (Line Chart)
+- 🍽️ Revenue by Cuisine Type (Bar Chart)
+- 👥 Customer Distribution by Category (Pie Chart)
+- 📅 Interactive Month Filter (Slicer)
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Microsoft Power BI
+- Microsoft Power BI Desktop
 - Power Query
 - DAX (Data Analysis Expressions)
 - Data Modeling
 - Data Cleaning & Transformation
 - Interactive Data Visualization
+- Microsoft Excel Dataset
 
 ---
 
@@ -40,17 +45,17 @@ The **Swiggy Sales Performance Analytics Dashboard** provides a comprehensive an
 
 - Analyzed overall sales performance.
 - Monitored revenue generated per customer.
-- Tracked order target achievement using KPIs.
-- Identified monthly order trends.
+- Tracked order target achievement using KPI visualizations.
+- Identified monthly sales trends.
 - Compared revenue across different cuisine types.
-- Analyzed customer distribution by food category.
-- Visualized order status for operational insights.
+- Analyzed customer distribution by food categories.
+- Visualized order status for better operational insights.
 
 ---
 
 ## 📂 Dataset Information
 
-The dashboard is built using a sales dataset containing:
+The dashboard is built using a sales dataset containing the following fields:
 
 - Order ID
 - Customer ID
@@ -71,17 +76,24 @@ The dashboard is built using a sales dataset containing:
 
 Through this project, I gained practical experience in:
 
-- Designing interactive Power BI dashboards
-- Creating KPIs using DAX
-- Data cleaning and transformation using Power Query
-- Building data models
-- Developing business-focused visualizations
-- Applying Business Intelligence concepts
-- Data storytelling through dashboards
+- Building interactive Power BI dashboards
+- Creating KPIs using DAX measures
+- Data cleaning and transformation with Power Query
+- Developing data models
+- Designing interactive business reports
+- Creating meaningful visualizations for business analysis
+- Applying Business Intelligence and Data Analytics concepts
+- Presenting data through effective storytelling
 
 ---
 
+## 📁 Repository Contents
 
+- 📊 Swiggy Sales Performance Analytics Dashboard (.pbix)
+- 🖼️ Dashboard Preview Image
+- 📄 README.md
+
+---
 
 ## 👩‍💻 Author
 
@@ -89,7 +101,7 @@ Through this project, I gained practical experience in:
 
 **B.Tech Student | Aspiring Data Scientist**
 
-### Skills
+### 💡 Skills
 
 - Python
 - SQL
@@ -97,3 +109,7 @@ Through this project, I gained practical experience in:
 - Machine Learning
 - Generative AI
 - Data Analytics
+
+---
+
+### ⭐ If you found this project interesting, feel free to explore the dashboard and share your feedback!
